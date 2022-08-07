@@ -124,5 +124,5 @@ bot.add_cog(Help(bot))
 
 #run
 keep_alive()
-bot.run(bot.run(os.environ['MTAwMzY2OTcwNjIxNDk5ODIyOA.GdRj3M.cJxY27vKXAn9kCcZY1y2yg1Izm7Afyc_PJaygg']))
+bot.run(bot.run(os.environ['']))
 
